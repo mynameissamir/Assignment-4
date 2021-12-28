@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+.days,
+.months,
+.seasons {
+    width: 28%;
+    float: left;
+}
+
+.below {
+    float: right;
+}
+
+img {
+    border: 2px solid;
+    float: right;
+}
+
+body {
+    background-color: antiquewhite;
+}
